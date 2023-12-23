@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pin0k&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pin0k&theme=default)
 
-### Prerequisites
+<!--### Prerequisites
 
 The things you need before installing the website source code.
 
@@ -27,7 +27,7 @@ The things you need before installing the website source code.
 
 ## Built with-->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
+
 
 <!--## Feedback
 
