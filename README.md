@@ -29,7 +29,7 @@ The things you need before installing the website source code.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
 
-<--## Feedback
+<!--## Feedback
 
 If you have any feedback, please reach out to us at abdulwaheed@ieee.org
 
